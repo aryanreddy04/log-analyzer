@@ -1,37 +1,37 @@
 # log-analyzer
-# 🔍 Log Analyzer Script
+#  Log Analyzer Script
 
-## 📌 Description
+##  Description
 A Bash-based log analysis tool that scans log files to detect:
 - exposed passwords
 - failed login attempts
 - suspicious activity patterns
 
-## ⚙️ Features
+##  Features
 - Dynamic keyword search
 - Match counting
 - Output report generation
 - Timestamped scans
 
-## 🚀 Usage
+##  Usage
 
 chmod +x scripts/scan.sh  
 ./scripts/scan.sh  
 
-## 📂 Project Structure
+##  Project Structure
 
 logs/ → sample log files  
 scripts/ → main script  
 output/ → generated reports  
 
-## 🧠 Learning Outcome
+##  Learning Outcome
 This project demonstrates:
 - Linux command usage
 - Bash scripting
 - Log analysis basics (SOC concept)
 - Git & GitHub workflow
 
-## 📈 Future Improvements
+## Future Improvements
 - IP extraction
 - Suspicious activity detection
 - Real-time monitoring
