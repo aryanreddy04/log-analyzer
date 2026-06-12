@@ -1,0 +1,2 @@
+logs/log1.txt:user=admin password=1234
+logs/log2.txt:user=test password=abcd
